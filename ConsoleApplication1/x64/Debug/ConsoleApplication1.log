@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\c+++\Projects-Of-Course-7\Bank-System-v1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\c+++\Projects-Of-Course-7\Bank-System-v1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(282,13): warning C4129: 'D': unrecognized character escape sequence
+  ConsoleApplication1.vcxproj -> D:\c+++\Projects-Of-Course-7\Bank-System-v1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
